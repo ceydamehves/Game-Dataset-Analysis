@@ -61,9 +61,11 @@ Dataset from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales).
   ![gSales](/graphs/7.png)
   
 ## Summarize
-
-  ![a](/graphs/newplot.png)
   
 - Global Sales Between 1980 & 2020
 
-  ![a](/graphs/newplot2.png)
+  ![a](/graphs/globalSale.png)
+  
+- Numbers
+  
+  ![a](/graphs/summarize.png)
